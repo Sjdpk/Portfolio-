@@ -3,7 +3,7 @@ Personal Portfolio Site
 ------------------------
 You can simply Create any static Portfolio site using html,css, bootstrap
 
-### My Portfolio site Live  : [sapkotadeepak.com.np](/tmp/.mount_JoplingchDTO/resources/app.asar/sapkotadeepak.com.np "Deepak Sapkota")
+### My Portfolio site Live  : [http:///www/sapkotadeepak.com.np](/tmp/.mount_JoplingchDTO/resources/app.asar/sapkotadeepak.com.np "Deepak Sapkota")
 
 # **01\. Laptop View**
 
