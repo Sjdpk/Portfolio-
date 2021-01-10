@@ -1,9 +1,9 @@
 # Portfolio-
 Personal Portfolio Site
 ------------------------
-You can simply Create any static Portfolio site using html,css, bootstrap
+You can simply Create any static Portfolio site using Html,Css, Bootstrap
 
-### My Portfolio site Live  : [http:///www/sapkotadeepak.com.np]
+### My Portfolio site Live  : (sapkotadeepak.com.np)
 
 # **01\. Laptop View**
 
@@ -11,4 +11,4 @@ You can simply Create any static Portfolio site using html,css, bootstrap
 
 # **02\. Mobile View**
 
-**![Mobileview.png](https://github.com/Sjdpk/Portfolio-site/blob/main/screenshot/mobileview.png)
+# ![Mobileview.png](https://github.com/Sjdpk/Portfolio-site/blob/main/screenshot/mobileview.png)
