@@ -11,4 +11,4 @@ You can simply Create any static Portfolio site using html,css, bootstrap
 
 # **02\. Mobile View**
 
-**![Mobileview.png]https://github.com/Sjdpk/Portfolio-site/blob/main/screenshot/mobileview.png)**
+**![Mobileview.png](https://github.com/Sjdpk/Portfolio-site/blob/main/screenshot/mobileview.png)
